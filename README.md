@@ -8,3 +8,7 @@ Things to note:
     - This was originally closed source but i sold it to someone but the price wasn't good for me but never decided to release it till right now
     - I'm sorry to dissapoint you if the code looked bad
 ```
+Credits to people who contributed to the parts of the whitelist 
+```
+    - Singularity#5490 (Pseudo Random)
+```
